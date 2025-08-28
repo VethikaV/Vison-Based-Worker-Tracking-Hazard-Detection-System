@@ -5,7 +5,7 @@ from deepface import DeepFace
 import os
 
 # -------- Settings ----------
-AUTHORIZED_IMAGE = r"D:\Vision_Hazard_Detector_Starter\vision_Hazard\authorized_me.jpg"  # your face image
+AUTHORIZED_IMAGE = r"D:\Vison_Hazard_Blaze_Hackathon\Vision_Hazard_Detector_Starter\WhatsApp Image 2025-08-27 at 21.46.06.jpeg"  # your face image
 ALERT_COOLDOWN_SECS = 2.0      # avoid continuous beeping
 TOLERANCE = 0.05               # extra flexibility on threshold
 TEMP_FACE = "temp_face.jpg"    # static temp file for cropped face
